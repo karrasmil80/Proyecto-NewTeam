@@ -1,6 +1,6 @@
 # Proyecto-NewTeam
 
-## Nombre de los integrantes
+## Nombre de los integrantes 
     
 - Lucia Fuertes
 - Pablo Zuil
