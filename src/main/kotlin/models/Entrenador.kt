@@ -10,5 +10,6 @@ class Entrenador (
     override val fechaNacimiento: LocalDateTime,
     override val fechaIncorporacion: LocalDateTime,
     override val salario: Double,
-    override val pais: String
-) : Empleado(id, nombre, apellidos, fechaNacimiento, fechaIncorporacion, salario, pais)
+    override val pais: String,
+    override val rol: Rol
+) : Empleado(id, nombre, apellidos, fechaNacimiento, fechaIncorporacion, salario, pais, rol)

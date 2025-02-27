@@ -10,5 +10,6 @@ open class Empleado (
     open val fechaNacimiento: LocalDateTime,
     open val fechaIncorporacion: LocalDateTime,
     open val salario: Double,
-    open val pais: String
+    open val pais: String,
+    open val rol: Rol
 )
